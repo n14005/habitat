@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html 
-	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	
+﻿<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
 
@@ -13,7 +13,6 @@
 
 <body>
 
-<!-- 上部ナビゲーションバー -->
 <div id="container">
 <div id="banner">
 <div id="head"></div>
@@ -22,7 +21,6 @@
 <div id="subnav"><img src="syb/navbg_02.gif" height="16" width="600" border="0" alt="明るい未来を建築しましょう。"/></div>
 </div>
 
-<!-- サイドバー -->
 <div id="sidebar">
 <br/>
 <br/>   <!-- ナビゲーション画像（国際プログラム、高校／大学クラブを結成する、学期休暇中の建築活動、その他）に埋め込むタグ-->
@@ -33,7 +31,6 @@
 <br/><br/><br/><br/>
 </div>
 
-<!-- コンテンツ本体 -->
 <div id="content">
 <img src="syb/SYBcollague2.jpg" width="432" height="148" border="0" alt="この夏は、必要とする人のために家を作ろう！" />
 <br/>
@@ -71,7 +68,6 @@
 </p>
 </div>
 
-<!-- フッター -->
 <div id="footer">
 質問 | なぜ参加を？ | 典型的な一日 | 若者たちの言葉 | 
 写真 | 参加します！<br/>CCYPホーム | 国際プログラム | 高校／大学クラブを結成する（米国） <br/>学期休暇中の建築活動 | Teen Summer Buildに参加する | 子どもたちを参加させよう | 子どもたち向け <br/> 話題の若者<br/><br/>ホーム | 参加しよう | 住宅を建設している所 | Habitatのしくみ | 本当の話<br/><br/> &copy; 2007 Habitat for Humanity International</div>
